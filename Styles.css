@@ -1,0 +1,20 @@
+body {
+	font-size: 18px;
+	background-color: #F6F6F6;
+	border-top: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+	padding: 50px;
+	margin: 30px;
+
+	a {
+		font-weight: bold;
+	}
+	nav	{text-align: center;
+	}
+	h1 {text-align: center;
+		{text-transform: uppercase;}
+
+		}
+
+
+}
